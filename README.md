@@ -3,7 +3,7 @@
 :one: install nativesctipt(ns)
 
 ```
-npm install -h nativescript
+npm install -g nativescript
 ```
 
 :two: create a project
