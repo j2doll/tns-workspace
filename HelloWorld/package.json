@@ -25,7 +25,8 @@
     "reflect-metadata": "~0.1.12",
     "rxjs": "^6.4.0",
     "tns-core-modules": "~6.0.0",
-    "zone.js": "~0.9.1"
+    "zone.js": "~0.9.1",
+    "kind-of": ">=6.0.3"
   },
   "devDependencies": {
     "@angular/compiler-cli": "~8.2.0",
